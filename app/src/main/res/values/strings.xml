@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wiki GeoSearch sample</string>
+    <string name="articles_title">Articles</string>
+
+    <string name="progress_location">Please wait\nAcquiring current location…</string>
+    <string name="progress_fetch">Please wait\nLoading data…</string>
+    <string name="message_fetch_failed">Failed to fetch data</string>
+    <string name="message_empty">No articles at this location!</string>
+
+    <string name="article_no_name">[ No name ]</string>
+    <string name="article_image_no_name">[ No name ]</string>
+    <string name="article_image_prefix">File:</string>
+
+    <string name="article_name_no_images">(empty)</string>
+
+    <plurals name="article_name_count_template">
+        <item quantity="one">1 image</item>
+        <item quantity="other">%d images</item>
+    </plurals>
+</resources>

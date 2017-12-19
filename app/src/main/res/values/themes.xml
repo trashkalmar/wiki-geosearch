@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">@color/theme_text</item>
+        <item name="android:textViewStyle">@style/AppTheme.TextViewStyle</item>
+    </style>
+
+    <style name="AppTheme.TextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

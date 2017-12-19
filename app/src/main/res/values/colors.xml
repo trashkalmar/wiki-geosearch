@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_primary">#FFBAC5FF</color>
+    <color name="theme_primary_dark">#FF8B94C6</color>
+    <color name="theme_accent">#FF1A237E</color>
+    <color name="theme_text">#FF000000</color>
+
+    <color name="chevron">#FF202020</color>
+
+    <color name="bg_group">#FFE0E0E0</color>
+    <color name="bg_group_pressed">#FFFFFFFF</color>
+    <color name="bg_group_divider">#FFCDCDCD</color>
+    <color name="bg_items">#FFFAFAFA</color>
+
+    <color name="fg_group_title">#FF000000</color>
+    <color name="fg_group_counter">#FF808080</color>
+    <color name="fg_item_title">#FF404040</color>
+</resources>
